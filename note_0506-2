@@ -1,0 +1,95 @@
+1. u以下的製程 (Angstrom Era) 埃
+
+1 A = 10^-10 m
+
+原子大小約 3-5 A
+
+Intel 20A (Angström) 技術：RibbonFET（環繞閘極電晶體）結構
+
+2. Intel 電晶體技術演進
+
+90nm: Strained Silicon
+
+65nm: Enhanced Strain
+
+45nm: Hi-K Metal Gate
+
+32nm: Enhanced Hi-K Metal Gate
+
+22nm: First FinFET
+
+14nm / 10nm: Enhanced FinFET
+
+7nm: GAA (Gate-All-Around)
+
+20A: RibbonFET
+
+3. 微縮規模 (Scaling)
+
+MOSFET 閘極長度(Micron)
+
+1970s: 幾十微米
+
+2000s: 0.1微米級
+
+2020: 奈米級 (7.4nm 等)
+
+晶片電晶體數量成長：
+
+2.3 Billion (ITRS 目標)
+
+4. MOSFET 結構與演進
+
+Planar FET: 平面電晶體
+
+FinFET: 鰭式電晶體
+
+GAAFET (Nanowire/Nanosheet): 環繞閘極電晶體
+
+5. 物理極限與新材料
+
+新材料:
+
+MoS2
+
+WS2
+
+MoSe2
+
+WSe2
+
+Graphene
+
+持續創新方向：
+
+新型裝置
+
+整合流程
+
+封裝技術
+
+6. GAAFET 特點
+
+利用 Si/SiGe 堆疊奈米片，形成柱狀結構，改善電性表現。
+
+與 FinFET 比較：GAAFET 閘極全面包覆溝道，抑制短通道效應更佳。
+
+7. 技術節點 (Technology Node)
+
+傳統意義: 指電晶體中關鍵尺寸 (如 Gate Length)
+
+當代定義: 指最小線寬 (Line Width)
+
+主要節點：22nm、14nm、10nm、7nm 等
+
+8. 微電子縮放曲線
+
+閘極長度與節點名稱演進：
+
+350nm ➔ 250nm ➔ 180nm ➔ 130nm ➔ 90nm ➔ 65nm ➔ 45nm ➔ 32nm ➔ 22nm ➔ 14/16nm ➔ 10/7/5/3nm 等
+
+9. 晶體與非晶結構
+
+晶體結構 (Crystalline): 有缺陷(缺原子/位錯)，但具規則排列
+
+非晶結構 (Amorphous): 緊密堆積但排列無序 (類似玻璃)
