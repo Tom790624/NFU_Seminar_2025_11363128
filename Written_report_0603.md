@@ -44,8 +44,3 @@ EMBERS、AI、Social Media、Event Forecasting、Epidemic Simulation、DQE、Mul
 5. Doyle et al., “The EMBERS Architecture for Streaming Predictive Analytics,” IEEE BigData, 2014.
 6. Ramakrishnan et al., “Beating the News with EMBERS,” ACM KDD 2014.
 7. Muthiah et al., “EMBERS at 4 years,” ACM KDD 2016.
-
-
-## 六、格式說明
-
-行距：固定值 20pt；字型：標楷體；字級：12pt；段落標題使用加粗格式。
